@@ -1,0 +1,3 @@
+/Users/mikamac/Documents/School/Semestr3/PC/SP/build/CMakeFiles/stegim.dir
+/Users/mikamac/Documents/School/Semestr3/PC/SP/build/CMakeFiles/edit_cache.dir
+/Users/mikamac/Documents/School/Semestr3/PC/SP/build/CMakeFiles/rebuild_cache.dir

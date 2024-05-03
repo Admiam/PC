@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/mikamac/Documents/School/Semestr3/PC/SP/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -g -std=gnu11 -arch arm64 -o CMakeFiles/stegim.dir/stegim.c.o -c /Users/mikamac/Documents/School/Semestr3/PC/SP/stegim.c",
+  "file": "/Users/mikamac/Documents/School/Semestr3/PC/SP/stegim.c",
+  "output": "CMakeFiles/stegim.dir/stegim.c.o"
+}
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20231128-1003-Experimental"
+	Name="Adams-MacBook-Air.local"
+	Generator="ctest-3.27.7"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="eduroam-136-184.zcu.cz"
+	OSRelease="14.0"
+	OSVersion="23A344"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Nov 28 11:03 CET</StartDateTime>
+		<StartTestTime>1701165814</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 28 11:03 CET</EndDateTime>
+		<EndTestTime>1701165814</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

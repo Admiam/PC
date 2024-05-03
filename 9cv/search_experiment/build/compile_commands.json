@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/mikamac/Documents/School/Semestr3/PC/9cv/search_experiment/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/searchers.dir/searchers.c.o -c /Users/mikamac/Documents/School/Semestr3/PC/9cv/search_experiment/searchers.c",
+  "file": "/Users/mikamac/Documents/School/Semestr3/PC/9cv/search_experiment/searchers.c",
+  "output": "CMakeFiles/searchers.dir/searchers.c.o"
+}
+]

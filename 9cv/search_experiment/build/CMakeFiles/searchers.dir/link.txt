@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsearchers.a CMakeFiles/searchers.dir/searchers.c.o
+/usr/bin/ranlib libsearchers.a
